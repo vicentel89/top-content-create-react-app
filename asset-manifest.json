@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/top-content-create-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/top-content-create-react-app/static/js/main.becc9c43.chunk.js",
+    "main.js.map": "/top-content-create-react-app/static/js/main.becc9c43.chunk.js.map",
+    "runtime-main.js": "/top-content-create-react-app/static/js/runtime-main.2b230038.js",
+    "runtime-main.js.map": "/top-content-create-react-app/static/js/runtime-main.2b230038.js.map",
+    "static/js/2.71359e7d.chunk.js": "/top-content-create-react-app/static/js/2.71359e7d.chunk.js",
+    "static/js/2.71359e7d.chunk.js.map": "/top-content-create-react-app/static/js/2.71359e7d.chunk.js.map",
+    "index.html": "/top-content-create-react-app/index.html",
+    "precache-manifest.db72dc96f591dde9ef70f61623b45bd0.js": "/top-content-create-react-app/precache-manifest.db72dc96f591dde9ef70f61623b45bd0.js",
+    "service-worker.js": "/top-content-create-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/top-content-create-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.71359e7d.chunk.js.LICENSE.txt": "/top-content-create-react-app/static/js/2.71359e7d.chunk.js.LICENSE.txt",
+    "static/media/photosample.jpg": "/top-content-create-react-app/static/media/photosample.5f4e1a49.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b230038.js",
+    "static/js/2.71359e7d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.becc9c43.chunk.js"
+  ]
+}
